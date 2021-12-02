@@ -11,7 +11,7 @@ class Alien(Sprite):
         self.ai_setttings = ai_settings
 
         #load alien's image and set its rect prop
-        self.image = pygame.image.load('PythonRookieProjects/Spaceship/images/alien.bmp')
+        self.image = pygame.image.load('Spaceship/images/alien.bmp')
         self.rect = self.image.get_rect()
 
         #initialize alien's position near (0,0)
