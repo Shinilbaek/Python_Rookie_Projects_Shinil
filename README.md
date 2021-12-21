@@ -1,17 +1,15 @@
 # Python Work by Shinil
 
- Some small projects while learning Python
+Some small projects while learning Python
 
- ### Basic
+### Basic
 
- - [Spaceship](Spaceship/)
+- [Pygame Spaceship](Spaceship/)
 
-### Machine Learning
-
-- [Linear Regression](ML/Linear_Regression/)
-- [Logistic Regression](ML/Logistic_Regression/)
-- [Supervised Learning](ML/Supervised_Learning/)
-- [Unsupervised Learning](ML/Unsupervised_Learning/)
+- [Machine Learing](ML/)
+- [Statistical Learning](SL/)
+- [Deep Learning](DL/)
+- [Reinforcement Learing](RL/)
 
 ---
-Last Update: 21-12-06
+Last Update: 21-12-21

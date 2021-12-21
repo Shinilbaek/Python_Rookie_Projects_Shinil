@@ -7,4 +7,5 @@
 - Chapter2 [Perceptron](perceptron.py)
 - Chapter3 [KNN](k_nearest_neighbor.py)
 - Chpater4 [Naive Bayes](naive_bayes.py)
-- Chapter5 []
+- Chapter5 [Decision Tree](decision_tree.py)
+- 
