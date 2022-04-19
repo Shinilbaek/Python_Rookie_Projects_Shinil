@@ -11,7 +11,7 @@ from sklearn.model_selection import train_test_split
 from collections import Counter
 import math
 from math import log
-import pprint
+# import pprint
 
 # refering textbook eg. 5.1
 def create_data():
